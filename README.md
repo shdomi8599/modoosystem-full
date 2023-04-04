@@ -43,7 +43,8 @@ http://modoosystem.com/index.php
 
 설치현황 페이지의 왼쪽 필터링 바를 이용해서 원하는 카테고리만 조회할 수 있습니다.
 
-![Uploading 4-(2) 설치현황 필터링.gif…]()
+![4-(2) 설치현황 필터링](https://user-images.githubusercontent.com/117655658/229729635-48cc401c-0578-4284-889e-2f206a04ac45.gif)
+
 
 ### `4-(3)` 설치현황 상세조회'
 
